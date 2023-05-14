@@ -1,21 +1,21 @@
 # FileIntegrity
 
 
-File Monitoring Tool
+<h2>File Monitoring Tool</h2>
 This is a simple file monitoring tool written in Python. It allows you to collect a baseline of files in a directory and then monitor those files for any changes.
 
-How to use
+<h2>How to use</h2>
 When you run the tool, you will be prompted to either collect a new baseline or monitor files using an existing baseline.
 
-Collect a new baseline
+<h2>Collect a new baseline</h2>
 If you choose to collect a new baseline, the tool will calculate the SHA-256 hash for each file in the current directory and store them in a file called "baseline.txt". This file can be used as a baseline to compare against in the future.
 
-Monitor files with saved baseline
+<h2>Monitor files with saved baseline</h2>
 If you choose to monitor files using an existing baseline, the tool will read the "baseline.txt" file and calculate the SHA-256 hash for each file in the current directory. If a file has changed since the baseline was collected, you will receive an alert.
 
-The tool runs in an infinite while loop and checks for changes every 10 seconds. To stop the tool, simply press Ctrl + C in the terminal.
+The tool runs in an infinite while loop and checks for changes every 10 seconds.
 
-Dependencies
+<h2>Dependencies</h2>
 This tool uses the following Python libraries:
 
 os
