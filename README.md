@@ -1,7 +1,7 @@
-# FileIntegrity
+# File Integrity Monitor
 
 
-<h2>File Monitoring Tool</h2>
+<h2>File Integrity Monitor</h2>
 This is a simple file monitoring tool written in Python. It allows you to collect a baseline of files in a directory and then monitor those files for any changes.
 
 <h2>How to use</h2>
