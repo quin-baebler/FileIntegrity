@@ -28,4 +28,4 @@ The flow chart below gives a basic overview that was used to design the applicat
 
 <img width="514" alt="Screenshot 2023-05-13 at 11 21 45 PM" src="https://github.com/quin-baebler/FileIntegrityChecker/assets/91747413/29e7aa78-db7a-4070-8c59-9900d1712e5b">
 
-Shoutout to <a url=https://www.youtube.com/@JoshMadakor>@JoshMadakor</a> for the project inspiration with his video on how to create a File Monitoring tool using Powershell.
+Shoutout to <a href=https://www.youtube.com/@JoshMadakor>@JoshMadakor</a> for the project inspiration with his video on how to create a File Monitoring tool using Powershell.
